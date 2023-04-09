@@ -14,7 +14,6 @@ export const MovieCard = ({ data, updateFront, setstatus }) => {
     const [hide, setside] = useState(true)
     const handleClick = () => {
         dispatch(addtolist(data, toast))
-        console.log(data)
     }
     return (
         <Stack style={{

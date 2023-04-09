@@ -36,7 +36,7 @@ import { getMyList } from "../redux/actions";
       }
       dispatch(getMyList())
       console.log(state)
-    },[state])
+    },[])
     return (
       <Container minW="100%" minH="880px" p="0px" bgColor="rgb(20,20,20)">
         <Container
