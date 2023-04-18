@@ -104,7 +104,7 @@ its Fully Responsive web application that allows you to Watch your favourite awa
 
 ## Login & SignUp
 
-<img src="./client/src/assests/userpage.png">
+<img src="./client/src/assests/login_page.jpg">
 <br />
 
 ## Dashboard
@@ -186,15 +186,11 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 
 
-## Contact
-
-If you want to contact me, you can reach me through below handles. <br />
-[![linkedin](https://img.shields.io/badge/Farman_Malik-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farmanarsh/)
-[![GitHub](https://img.shields.io/badge/Farman_Malik-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/farmanfirnas)
 
 
 
-© 2023 Farman Malik
+
+© 2023 Souvik Patra
 
 
 
