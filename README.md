@@ -42,9 +42,9 @@
  
 </p>
 
-Deploy live  Link :"ubiquitous-pithivier-562be6.netlify.app"
 
 
+<h3 align="center"><a href="ubiquitous-pithivier-562be6.netlify.app"><strong>Want to see live preview »</strong></a></h3>
 
 <h3 align="center"><a href="linkedinvideo"><strong>Demo Video »</strong></a></h3>
 
